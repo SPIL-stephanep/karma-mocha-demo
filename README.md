@@ -1,9 +1,13 @@
 karma-mocha-demo
 ================
 
-demo howing how to use karma and mocha to do client side js unit testing
+This is a demo showing how to use karma and mocha to do client side js unit testing.
 
-##Dependencies##
+##Install Karma##
+
+    npm install -g karma
+
+##Other Dependencies##
 
  + "mocha": "~1.13.0",
  + "karma-chrome-launcher": "~0.1.0",
